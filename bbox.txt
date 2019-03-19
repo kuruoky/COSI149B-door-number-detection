@@ -1,0 +1,2659 @@
+Frame 1: No Number/Text detected
+Frame 1: No Number/Text detected
+Frame 2: No Number/Text detected
+Frame 2: No Number/Text detected
+Frame 3: No Number/Text detected
+Frame 5: No Number/Text detected
+Frame 6: No Number/Text detected
+Frame 6: No Number/Text detected
+Frame 10: No Number/Text detected
+Frame 11: No Number/Text detected
+Frame 11: No Number/Text detected
+Frame 11: No Number/Text detected
+Frame 12: No Number/Text detected
+Frame 12: No Number/Text detected
+Frame 12: No Number/Text detected
+Frame 13: No Number/Text detected
+Frame 13: No Number/Text detected
+Frame 13: No Number/Text detected
+Frame 13: No Number/Text detected
+Frame 14: No Number/Text detected
+Frame 14: No Number/Text detected
+Frame 14: No Number/Text detected
+Frame 15: No Number/Text detected
+Frame 16: No Number/Text detected
+Frame 17: No Number/Text detected
+Frame 18: No Number/Text detected
+Frame 21: No Number/Text detected
+Frame 22: No Number/Text detected
+Frame 23: No Number/Text detected
+Frame 24: No Number/Text detected
+Frame 25: No Number/Text detected
+Frame 25: No Number/Text detected
+Frame 25: No Number/Text detected
+Frame 26: No Number/Text detected
+Frame 26: No Number/Text detected
+Frame 26: No Number/Text detected
+Frame 27: No Number/Text detected
+Frame 27: No Number/Text detected
+Frame 27: No Number/Text detected
+Frame 28: No Number/Text detected
+Frame 29: No Number/Text detected
+Frame 29: No Number/Text detected
+Frame 29: No Number/Text detected
+Frame 30: No Number/Text detected
+Frame 31: No Number/Text detected
+Frame 31: No Number/Text detected
+Frame 32: No Number/Text detected
+Frame 33: No Number/Text detected
+Frame 33: No Number/Text detected
+Frame 33: No Number/Text detected
+Frame 33: No Number/Text detected
+Frame 35: No Number/Text detected
+Frame 35: [1305, 415, 1324, 433], 3
+Frame 35: [1250, 415, 1268, 434], 3
+Frame 35: [1345, 415, 1364, 432], 4
+Frame 35: [1270, 415, 1288, 434], 3
+Frame 35: [1251, 410, 1267, 434], 3
+Frame 35: [1271, 410, 1288, 433], 3
+Frame 35: [1346, 409, 1364, 432], 4
+Frame 35: [1306, 409, 1322, 433], 3
+Frame 35: [1325, 408, 1343, 433], 0
+Frame 35: [1235, 411, 1246, 433], 1
+Frame 35: No Number/Text detected
+Frame 35: No Number/Text detected
+Frame 35: No Number/Text detected
+Frame 36: No Number/Text detected
+Frame 36: No Number/Text detected
+Frame 36: No Number/Text detected
+Frame 37: No Number/Text detected
+Frame 37: No Number/Text detected
+Frame 37: No Number/Text detected
+Frame 38: No Number/Text detected
+Frame 38: No Number/Text detected
+Frame 38: No Number/Text detected
+Frame 39: No Number/Text detected
+Frame 39: No Number/Text detected
+Frame 39: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 40: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 41: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 42: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 43: No Number/Text detected
+Frame 44: No Number/Text detected
+Frame 44: No Number/Text detected
+Frame 44: No Number/Text detected
+Frame 45: No Number/Text detected
+Frame 45: [1235, 602, 1251, 628], 1
+Frame 45: [1253, 604, 1264, 628], 1
+Frame 45: [1007, 603, 1024, 624], 5
+Frame 45: [1028, 604, 1043, 623], 8
+Frame 45: [1080, 605, 1098, 624], 8
+Frame 45: [1150, 605, 1170, 626], 2
+Frame 45: No Number/Text detected
+Frame 45: No Number/Text detected
+Frame 45: No Number/Text detected
+Frame 45: No Number/Text detected
+Frame 46: [1038, 602, 1045, 623], 1
+Frame 46: [1140, 603, 1162, 627], 2
+Frame 46: [1070, 602, 1090, 624], 2
+Frame 46: [1000, 602, 1015, 622], 5
+Frame 46: [975, 601, 996, 622], 0
+Frame 46: [1202, 605, 1224, 626], 0
+Frame 46: [1242, 600, 1257, 627], 1
+Frame 46: No Number/Text detected
+Frame 46: No Number/Text detected
+Frame 46: [1134, 378, 1154, 404], 4
+Frame 46: [1060, 379, 1078, 404], 3
+Frame 46: [1039, 378, 1058, 404], 3
+Frame 46: [1095, 379, 1112, 403], 3
+Frame 46: [1024, 378, 1036, 404], 1
+Frame 46: [1114, 378, 1133, 405], 0
+Frame 46: No Number/Text detected
+Frame 47: [1136, 602, 1155, 623], 2
+Frame 47: [993, 601, 1008, 620], 9
+Frame 47: [1064, 601, 1083, 622], 2
+Frame 47: [1013, 601, 1029, 621], 5
+Frame 47: [1088, 376, 1107, 402], 3
+Frame 47: [1018, 377, 1029, 401], 1
+Frame 47: [1053, 376, 1071, 402], 3
+Frame 47: [1033, 376, 1051, 402], 3
+Frame 47: [1129, 378, 1146, 401], 4
+Frame 47: [1108, 376, 1127, 403], 0
+Frame 47: No Number/Text detected
+Frame 48: [1130, 601, 1152, 624], 2
+Frame 48: [1059, 599, 1079, 623], 2
+Frame 48: [1008, 600, 1024, 620], 5
+Frame 48: [988, 599, 1006, 621], 9
+Frame 48: [965, 600, 984, 619], 0
+Frame 48: [1049, 375, 1066, 400], 3
+Frame 48: [1084, 375, 1101, 401], 3
+Frame 48: [1124, 376, 1143, 401], 4
+Frame 48: [1103, 375, 1121, 401], 0
+Frame 48: [1028, 375, 1046, 400], 3
+Frame 48: [1013, 375, 1024, 400], 1
+Frame 48: No Number/Text detected
+Frame 48: [1123, 375, 1144, 401], 4
+Frame 48: [1048, 375, 1067, 401], 3
+Frame 48: [1084, 376, 1101, 400], 3
+Frame 48: [1027, 374, 1047, 401], 3
+Frame 48: [1013, 375, 1024, 400], 1
+Frame 48: [1103, 375, 1121, 401], 0
+Frame 48: No Number/Text detected
+Frame 49: No Number/Text detected
+Frame 49: [1166, 603, 1188, 629], 4
+Frame 49: [1214, 599, 1226, 624], 1
+Frame 49: [1230, 599, 1242, 625], 1
+Frame 49: [984, 601, 1001, 621], 5
+Frame 49: [1056, 601, 1075, 622], 2
+Frame 49: [961, 601, 980, 621], 0
+Frame 49: [1004, 601, 1021, 621], 5
+Frame 49: [1128, 602, 1148, 623], 2
+Frame 49: [1189, 604, 1211, 624], 0
+Frame 49: No Number/Text detected
+Frame 49: [1008, 374, 1022, 401], 1
+Frame 49: [1045, 375, 1063, 401], 3
+Frame 49: [1120, 376, 1139, 401], 4
+Frame 49: [1080, 375, 1098, 401], 3
+Frame 49: [1024, 375, 1043, 401], 3
+Frame 49: [1100, 375, 1119, 401], 0
+Frame 49: No Number/Text detected
+Frame 50: [1212, 599, 1223, 624], 1
+Frame 50: [1002, 602, 1017, 621], 5
+Frame 50: [1054, 602, 1072, 621], 2
+Frame 50: [1227, 598, 1241, 625], 1
+Frame 50: [982, 601, 997, 621], 5
+Frame 50: [1125, 602, 1145, 623], 2
+Frame 50: [956, 600, 978, 621], 0
+Frame 50: [1186, 604, 1208, 624], 0
+Frame 50: [1042, 374, 1060, 400], 3
+Frame 50: [1022, 374, 1040, 400], 3
+Frame 50: [1078, 375, 1095, 399], 3
+Frame 50: [1005, 374, 1018, 400], 1
+Frame 50: [1117, 375, 1137, 400], 4
+Frame 50: [1097, 375, 1115, 400], 0
+Frame 50: No Number/Text detected
+Frame 50: [1042, 374, 1060, 400], 3
+Frame 50: [1022, 374, 1040, 400], 3
+Frame 50: [1078, 375, 1095, 399], 3
+Frame 50: [1005, 374, 1018, 400], 1
+Frame 50: [1117, 375, 1137, 400], 4
+Frame 50: [1097, 375, 1115, 400], 0
+Frame 50: No Number/Text detected
+Frame 51: [1123, 604, 1141, 623], 2
+Frame 51: [1209, 600, 1220, 625], 1
+Frame 51: [1050, 602, 1070, 623], 2
+Frame 51: [978, 601, 995, 622], 5
+Frame 51: [996, 601, 1015, 623], 5
+Frame 51: [1184, 605, 1205, 625], 0
+Frame 51: [1225, 600, 1237, 625], 1
+Frame 51: [1002, 372, 1016, 401], 1
+Frame 51: [1040, 375, 1058, 401], 3
+Frame 51: [1076, 376, 1092, 400], 3
+Frame 51: [1115, 375, 1135, 401], 4
+Frame 51: [1095, 375, 1113, 401], 0
+Frame 51: [1019, 375, 1037, 401], 3
+Frame 51: No Number/Text detected
+Frame 51: [1002, 372, 1016, 401], 1
+Frame 51: [1019, 375, 1037, 401], 3
+Frame 51: [1040, 376, 1057, 400], 3
+Frame 51: [1115, 375, 1135, 401], 4
+Frame 51: [1095, 375, 1113, 401], 0
+Frame 51: [1075, 375, 1093, 401], 3
+Frame 51: No Number/Text detected
+Frame 52: [1122, 605, 1140, 625], 8
+Frame 52: [1049, 604, 1067, 624], 2
+Frame 52: [996, 603, 1013, 623], 5
+Frame 52: [976, 603, 993, 623], 5
+Frame 52: [1016, 603, 1023, 624], 1
+Frame 52: [1182, 606, 1203, 626], 0
+Frame 52: [1207, 600, 1221, 627], 1
+Frame 52: [1223, 601, 1237, 628], 1
+Frame 52: [1038, 377, 1056, 402], 3
+Frame 52: [1073, 376, 1092, 402], 3
+Frame 52: [1093, 376, 1112, 403], 0
+Frame 52: [1114, 378, 1132, 401], 4
+Frame 52: [1017, 376, 1036, 402], 3
+Frame 52: [1001, 375, 1014, 402], 1
+Frame 52: No Number/Text detected
+Frame 53: No Number/Text detected
+Frame 53: [1000, 378, 1012, 402], 1
+Frame 53: [1037, 378, 1054, 403], 3
+Frame 53: [1113, 379, 1132, 404], 4
+Frame 53: [1092, 378, 1111, 404], 0
+Frame 53: [1072, 377, 1091, 404], 3
+Frame 53: [1015, 377, 1035, 404], 3
+Frame 53: [1000, 378, 1012, 402], 1
+Frame 53: [1112, 378, 1132, 404], 4
+Frame 53: [1037, 377, 1055, 403], 3
+Frame 53: [1015, 377, 1035, 404], 3
+Frame 53: [1073, 378, 1090, 403], 3
+Frame 53: [1092, 378, 1110, 404], 0
+Frame 53: No Number/Text detected
+Frame 54: No Number/Text detected
+Frame 54: [1090, 380, 1110, 407], 0
+Frame 54: [1035, 380, 1053, 406], 3
+Frame 54: [1071, 381, 1088, 406], 3
+Frame 54: [1112, 382, 1129, 405], 4
+Frame 54: [1000, 380, 1010, 405], 1
+Frame 54: [1014, 379, 1033, 406], 3
+Frame 54: [1119, 611, 1136, 629], 8
+Frame 54: [1204, 606, 1218, 632], 1
+Frame 54: [1046, 609, 1065, 629], 8
+Frame 54: [993, 608, 1010, 628], 5
+Frame 54: [973, 607, 990, 629], 5
+Frame 54: [948, 607, 969, 628], 0
+Frame 54: [1179, 610, 1202, 633], 0
+Frame 54: [1220, 605, 1235, 633], 1
+Frame 54: [1090, 380, 1110, 407], 0
+Frame 54: [1035, 380, 1053, 406], 3
+Frame 54: [1071, 381, 1088, 406], 3
+Frame 54: [1112, 382, 1129, 405], 4
+Frame 54: [1000, 380, 1010, 405], 1
+Frame 54: [1014, 379, 1033, 406], 3
+Frame 54: [974, 608, 988, 627], 5
+Frame 54: [949, 608, 969, 627], 0
+Frame 54: [1179, 611, 1201, 632], 0
+Frame 54: [1117, 609, 1138, 631], 2
+Frame 54: [1045, 608, 1065, 630], 2
+Frame 54: [1112, 381, 1129, 405], 4
+Frame 54: [1204, 605, 1218, 633], 1
+Frame 54: [993, 607, 1010, 629], 5
+Frame 54: [1035, 380, 1053, 406], 3
+Frame 54: [1015, 380, 1032, 405], 3
+Frame 54: [1090, 380, 1110, 407], 0
+Frame 54: [1070, 380, 1089, 407], 3
+Frame 54: [1000, 381, 1010, 404], 1
+Frame 54: [1220, 605, 1235, 633], 1
+Frame 54: No Number/Text detected
+Frame 55: No Number/Text detected
+Frame 55: [1035, 385, 1051, 408], 3
+Frame 55: [1069, 382, 1088, 409], 3
+Frame 55: [1110, 383, 1129, 409], 4
+Frame 55: [1014, 383, 1031, 407], 3
+Frame 55: [997, 382, 1009, 408], 1
+Frame 55: [1089, 382, 1109, 409], 0
+Frame 55: [1045, 612, 1063, 631], 2
+Frame 55: [1219, 608, 1234, 636], 1
+Frame 55: [972, 611, 988, 631], 5
+Frame 55: [992, 611, 1008, 631], 5
+Frame 55: [1035, 385, 1051, 408], 3
+Frame 55: [1069, 382, 1088, 409], 3
+Frame 55: [1110, 383, 1129, 409], 4
+Frame 55: [1014, 383, 1031, 407], 3
+Frame 55: [997, 382, 1009, 408], 1
+Frame 55: [1089, 382, 1109, 409], 0
+Frame 55: [1069, 383, 1087, 409], 3
+Frame 55: [1034, 382, 1052, 409], 3
+Frame 55: [1014, 383, 1031, 408], 3
+Frame 55: [1111, 384, 1128, 408], 4
+Frame 55: [997, 382, 1010, 408], 1
+Frame 55: [1089, 382, 1109, 409], 0
+Frame 55: No Number/Text detected
+Frame 56: [1032, 384, 1052, 411], 3
+Frame 56: [1069, 385, 1086, 410], 3
+Frame 56: [1013, 385, 1030, 409], 3
+Frame 56: [1109, 385, 1129, 411], 4
+Frame 56: [997, 384, 1008, 409], 1
+Frame 56: [1089, 384, 1107, 411], 0
+Frame 56: [1032, 384, 1052, 411], 3
+Frame 56: [1109, 385, 1129, 411], 4
+Frame 56: [1012, 383, 1031, 411], 3
+Frame 56: [1069, 385, 1086, 410], 3
+Frame 56: [997, 384, 1008, 409], 1
+Frame 56: [1089, 384, 1107, 411], 0
+Frame 56: No Number/Text detected
+Frame 57: [1220, 612, 1234, 640], 1
+Frame 57: [947, 615, 966, 634], 0
+Frame 57: [1044, 615, 1063, 636], 2
+Frame 57: [1117, 617, 1137, 638], 8
+Frame 57: [991, 615, 1008, 636], 5
+Frame 57: [972, 615, 987, 635], 5
+Frame 57: [1178, 618, 1201, 639], 0
+Frame 57: [996, 384, 1009, 412], 1
+Frame 57: [1034, 387, 1051, 411], 3
+Frame 57: [1110, 387, 1129, 412], 4
+Frame 57: [1089, 385, 1108, 413], 0
+Frame 57: [1070, 387, 1087, 411], 3
+Frame 57: [1012, 385, 1031, 412], 3
+Frame 57: No Number/Text detected
+Frame 57: No Number/Text detected
+Frame 57: [1043, 615, 1064, 637], 2
+Frame 57: [1118, 617, 1136, 637], 8
+Frame 57: [1178, 618, 1201, 640], 0
+Frame 57: [1109, 387, 1129, 413], 4
+Frame 57: [946, 614, 967, 635], 0
+Frame 57: [971, 615, 987, 635], 5
+Frame 57: [1069, 386, 1087, 412], 3
+Frame 57: [1033, 385, 1052, 412], 3
+Frame 57: [1012, 385, 1031, 413], 3
+Frame 57: [996, 384, 1009, 412], 1
+Frame 57: [1089, 385, 1108, 413], 0
+Frame 57: [996, 384, 1009, 412], 1
+Frame 57: [1069, 387, 1087, 412], 3
+Frame 57: [1034, 387, 1051, 411], 3
+Frame 57: [1109, 386, 1130, 413], 4
+Frame 57: [1012, 385, 1032, 413], 3
+Frame 57: [1089, 385, 1108, 413], 0
+Frame 58: [1047, 620, 1065, 639], 2
+Frame 58: [1222, 616, 1236, 643], 1
+Frame 58: [1119, 620, 1139, 641], 8
+Frame 58: [972, 618, 990, 639], 5
+Frame 58: [992, 618, 1010, 639], 5
+Frame 58: [948, 618, 969, 638], 0
+Frame 58: [1180, 621, 1204, 642], 0
+Frame 58: No Number/Text detected
+Frame 58: [1047, 620, 1065, 639], 2
+Frame 58: [1222, 616, 1236, 643], 1
+Frame 58: [973, 618, 989, 639], 5
+Frame 58: [1119, 620, 1138, 640], 2
+Frame 58: [993, 619, 1010, 639], 5
+Frame 58: [948, 618, 969, 638], 0
+Frame 58: [1181, 621, 1203, 642], 0
+Frame 58: No Number/Text detected
+Frame 58: [998, 388, 1012, 414], 1
+Frame 58: [1036, 389, 1053, 414], 3
+Frame 58: [1072, 389, 1089, 414], 3
+Frame 58: [1014, 388, 1033, 415], 3
+Frame 58: [1111, 389, 1132, 415], 4
+Frame 58: [1091, 389, 1110, 415], 0
+Frame 58: [993, 618, 1010, 639], 5
+Frame 58: [1181, 621, 1203, 642], 0
+Frame 58: [1015, 388, 1033, 414], 3
+Frame 58: [1119, 620, 1139, 640], 2
+Frame 58: [1045, 618, 1066, 640], 2
+Frame 58: [948, 618, 969, 638], 0
+Frame 58: [973, 618, 989, 639], 5
+Frame 58: [1035, 388, 1054, 414], 3
+Frame 58: [1071, 389, 1090, 415], 3
+Frame 58: [999, 389, 1010, 414], 1
+Frame 58: [1112, 390, 1131, 415], 4
+Frame 58: [1091, 389, 1110, 415], 0
+Frame 59: No Number/Text detected
+Frame 59: No Number/Text detected
+Frame 59: [1005, 390, 1013, 414], 1
+Frame 59: [1116, 390, 1136, 415], 4
+Frame 59: [1040, 390, 1058, 415], 3
+Frame 59: [1019, 389, 1036, 415], 3
+Frame 59: No Number/Text detected
+Frame 59: [1116, 390, 1136, 415], 4
+Frame 59: [1002, 389, 1016, 415], 1
+Frame 59: [1040, 390, 1058, 415], 3
+Frame 59: [1019, 389, 1037, 415], 3
+Frame 59: [1076, 390, 1094, 415], 3
+Frame 59: [1095, 390, 1115, 415], 0
+Frame 60: [1006, 620, 1025, 641], 9
+Frame 60: [1197, 624, 1217, 644], 0
+Frame 60: [986, 620, 1003, 641], 5
+Frame 60: [962, 620, 982, 640], 6
+Frame 60: [1061, 622, 1079, 641], 2
+Frame 60: [1134, 622, 1155, 643], 2
+Frame 60: No Number/Text detected
+Frame 60: No Number/Text detected
+Frame 60: [1006, 620, 1025, 641], 9
+Frame 60: [1197, 624, 1217, 644], 0
+Frame 60: [986, 620, 1003, 641], 5
+Frame 60: [962, 620, 982, 640], 6
+Frame 60: [1061, 622, 1079, 641], 2
+Frame 60: [1134, 622, 1155, 643], 2
+Frame 60: No Number/Text detected
+Frame 60: [1049, 390, 1067, 415], 3
+Frame 60: [1011, 390, 1025, 415], 1
+Frame 60: [1125, 391, 1146, 415], 4
+Frame 60: [1028, 390, 1046, 415], 3
+Frame 60: [1086, 390, 1103, 415], 3
+Frame 60: [1049, 390, 1067, 415], 3
+Frame 60: [1011, 390, 1025, 415], 1
+Frame 60: [1125, 391, 1146, 415], 4
+Frame 60: [1028, 390, 1046, 415], 3
+Frame 60: [1086, 390, 1103, 415], 3
+Frame 61: No Number/Text detected
+Frame 61: No Number/Text detected
+Frame 61: No Number/Text detected
+Frame 62: No Number/Text detected
+Frame 62: No Number/Text detected
+Frame 63: No Number/Text detected
+Frame 63: No Number/Text detected
+Frame 64: No Number/Text detected
+Frame 66: No Number/Text detected
+Frame 66: No Number/Text detected
+Frame 67: No Number/Text detected
+Frame 67: No Number/Text detected
+Frame 68: No Number/Text detected
+Frame 69: No Number/Text detected
+Frame 69: No Number/Text detected
+Frame 69: No Number/Text detected
+Frame 71: No Number/Text detected
+Frame 78: No Number/Text detected
+Frame 79: No Number/Text detected
+Frame 79: No Number/Text detected
+Frame 81: No Number/Text detected
+Frame 82: No Number/Text detected
+Frame 82: No Number/Text detected
+Frame 82: No Number/Text detected
+Frame 82: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 83: No Number/Text detected
+Frame 84: No Number/Text detected
+Frame 84: No Number/Text detected
+Frame 85: No Number/Text detected
+Frame 85: No Number/Text detected
+Frame 85: No Number/Text detected
+Frame 85: No Number/Text detected
+Frame 86: No Number/Text detected
+Frame 86: No Number/Text detected
+Frame 87: No Number/Text detected
+Frame 87: No Number/Text detected
+Frame 87: No Number/Text detected
+Frame 87: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 88: No Number/Text detected
+Frame 89: No Number/Text detected
+Frame 90: No Number/Text detected
+Frame 91: No Number/Text detected
+Frame 91: No Number/Text detected
+Frame 91: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 92: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 93: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 94: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 95: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 96: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 97: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 98: No Number/Text detected
+Frame 99: No Number/Text detected
+Frame 99: No Number/Text detected
+Frame 99: No Number/Text detected
+Frame 99: No Number/Text detected
+Frame 99: No Number/Text detected
+Frame 100: No Number/Text detected
+Frame 100: No Number/Text detected
+Frame 100: No Number/Text detected
+Frame 100: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 101: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 102: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 103: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 104: No Number/Text detected
+Frame 105: No Number/Text detected
+Frame 105: No Number/Text detected
+Frame 105: No Number/Text detected
+Frame 105: No Number/Text detected
+Frame 105: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 106: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 107: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 108: No Number/Text detected
+Frame 109: No Number/Text detected
+Frame 109: No Number/Text detected
+Frame 109: No Number/Text detected
+Frame 109: No Number/Text detected
+Frame 109: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 110: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 111: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 112: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 113: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 114: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 115: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 116: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 117: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 118: No Number/Text detected
+Frame 119: No Number/Text detected
+Frame 119: No Number/Text detected
+Frame 119: No Number/Text detected
+Frame 119: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 120: No Number/Text detected
+Frame 121: No Number/Text detected
+Frame 121: No Number/Text detected
+Frame 121: No Number/Text detected
+Frame 121: No Number/Text detected
+Frame 122: No Number/Text detected
+Frame 122: No Number/Text detected
+Frame 122: No Number/Text detected
+Frame 122: No Number/Text detected
+Frame 122: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 123: No Number/Text detected
+Frame 124: No Number/Text detected
+Frame 124: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 125: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 126: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 127: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 128: No Number/Text detected
+Frame 129: No Number/Text detected
+Frame 129: No Number/Text detected
+Frame 129: No Number/Text detected
+Frame 130: No Number/Text detected
+Frame 130: No Number/Text detected
+Frame 131: No Number/Text detected
+Frame 131: No Number/Text detected
+Frame 131: No Number/Text detected
+Frame 131: No Number/Text detected
+Frame 131: No Number/Text detected
+Frame 132: No Number/Text detected
+Frame 132: No Number/Text detected
+Frame 132: No Number/Text detected
+Frame 132: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 133: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 134: No Number/Text detected
+Frame 135: No Number/Text detected
+Frame 135: No Number/Text detected
+Frame 135: No Number/Text detected
+Frame 136: No Number/Text detected
+Frame 136: No Number/Text detected
+Frame 136: No Number/Text detected
+Frame 136: No Number/Text detected
+Frame 137: No Number/Text detected
+Frame 138: No Number/Text detected
+Frame 138: No Number/Text detected
+Frame 138: No Number/Text detected
+Frame 138: No Number/Text detected
+Frame 140: No Number/Text detected
+Frame 141: No Number/Text detected
+Frame 142: No Number/Text detected
+Frame 143: No Number/Text detected
+Frame 144: No Number/Text detected
+Frame 144: No Number/Text detected
+Frame 144: No Number/Text detected
+Frame 146: No Number/Text detected
+Frame 147: No Number/Text detected
+Frame 148: No Number/Text detected
+Frame 148: No Number/Text detected
+Frame 149: No Number/Text detected
+Frame 150: No Number/Text detected
+Frame 150: No Number/Text detected
+Frame 151: No Number/Text detected
+Frame 151: No Number/Text detected
+Frame 152: No Number/Text detected
+Frame 152: No Number/Text detected
+Frame 152: No Number/Text detected
+Frame 152: No Number/Text detected
+Frame 153: No Number/Text detected
+Frame 153: No Number/Text detected
+Frame 154: No Number/Text detected
+Frame 154: No Number/Text detected
+Frame 154: No Number/Text detected
+Frame 154: No Number/Text detected
+Frame 154: No Number/Text detected
+Frame 155: [1005, 374, 1033, 436], 1
+Frame 155: [1192, 372, 1227, 428], 5
+Frame 155: [1153, 373, 1186, 428], 3
+Frame 155: [1231, 373, 1265, 424], 4
+Frame 155: [1083, 376, 1118, 429], 3
+Frame 155: [1040, 373, 1078, 433], 3
+Frame 156: No Number/Text detected
+Frame 156: No Number/Text detected
+Frame 157: No Number/Text detected
+Frame 158: No Number/Text detected
+Frame 158: No Number/Text detected
+Frame 158: [952, 405, 984, 472], 1
+Frame 158: [988, 407, 1027, 470], 3
+Frame 158: [1031, 405, 1071, 470], 3
+Frame 158: [1182, 404, 1219, 464], 4
+Frame 158: [1144, 405, 1180, 466], 5
+Frame 158: [1103, 404, 1142, 468], 3
+Frame 159: No Number/Text detected
+Frame 159: No Number/Text detected
+Frame 160: No Number/Text detected
+Frame 160: No Number/Text detected
+Frame 161: No Number/Text detected
+Frame 161: No Number/Text detected
+Frame 161: No Number/Text detected
+Frame 162: No Number/Text detected
+Frame 163: No Number/Text detected
+Frame 163: No Number/Text detected
+Frame 165: No Number/Text detected
+Frame 165: No Number/Text detected
+Frame 165: No Number/Text detected
+Frame 165: No Number/Text detected
+Frame 165: No Number/Text detected
+Frame 166: No Number/Text detected
+Frame 166: No Number/Text detected
+Frame 167: No Number/Text detected
+Frame 167: No Number/Text detected
+Frame 168: No Number/Text detected
+Frame 168: No Number/Text detected
+Frame 168: No Number/Text detected
+Frame 169: No Number/Text detected
+Frame 170: No Number/Text detected
+Frame 172: No Number/Text detected
+Frame 173: No Number/Text detected
+Frame 178: No Number/Text detected
+Frame 178: No Number/Text detected
+Frame 178: No Number/Text detected
+Frame 179: No Number/Text detected
+Frame 179: No Number/Text detected
+Frame 180: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 181: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 182: No Number/Text detected
+Frame 183: No Number/Text detected
+Frame 183: No Number/Text detected
+Frame 183: No Number/Text detected
+Frame 183: No Number/Text detected
+Frame 183: No Number/Text detected
+Frame 184: No Number/Text detected
+Frame 184: No Number/Text detected
+Frame 184: No Number/Text detected
+Frame 184: No Number/Text detected
+Frame 185: No Number/Text detected
+Frame 185: No Number/Text detected
+Frame 185: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 186: No Number/Text detected
+Frame 187: No Number/Text detected
+Frame 187: No Number/Text detected
+Frame 188: No Number/Text detected
+Frame 188: No Number/Text detected
+Frame 188: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 189: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 190: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 191: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 192: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 193: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 194: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 195: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 196: No Number/Text detected
+Frame 197: No Number/Text detected
+Frame 197: No Number/Text detected
+Frame 197: No Number/Text detected
+Frame 197: No Number/Text detected
+Frame 198: No Number/Text detected
+Frame 198: No Number/Text detected
+Frame 199: No Number/Text detected
+Frame 199: No Number/Text detected
+Frame 199: No Number/Text detected
+Frame 200: No Number/Text detected
+Frame 200: No Number/Text detected
+Frame 200: No Number/Text detected
+Frame 200: No Number/Text detected
+Frame 200: No Number/Text detected
+Frame 201: No Number/Text detected
+Frame 201: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 202: No Number/Text detected
+Frame 203: No Number/Text detected
+Frame 203: No Number/Text detected
+Frame 203: No Number/Text detected
+Frame 203: No Number/Text detected
+Frame 204: No Number/Text detected
+Frame 204: No Number/Text detected
+Frame 204: No Number/Text detected
+Frame 204: No Number/Text detected
+Frame 204: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 205: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 206: No Number/Text detected
+Frame 207: No Number/Text detected
+Frame 207: No Number/Text detected
+Frame 207: No Number/Text detected
+Frame 207: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 208: No Number/Text detected
+Frame 209: No Number/Text detected
+Frame 209: No Number/Text detected
+Frame 209: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 210: No Number/Text detected
+Frame 211: No Number/Text detected
+Frame 211: No Number/Text detected
+Frame 212: No Number/Text detected
+Frame 213: No Number/Text detected
+Frame 213: No Number/Text detected
+Frame 214: No Number/Text detected
+Frame 214: No Number/Text detected
+Frame 214: No Number/Text detected
+Frame 214: No Number/Text detected
+Frame 215: No Number/Text detected
+Frame 216: No Number/Text detected
+Frame 216: No Number/Text detected
+Frame 216: No Number/Text detected
+Frame 216: No Number/Text detected
+Frame 217: No Number/Text detected
+Frame 217: No Number/Text detected
+Frame 217: No Number/Text detected
+Frame 217: No Number/Text detected
+Frame 217: No Number/Text detected
+Frame 218: No Number/Text detected
+Frame 218: No Number/Text detected
+Frame 218: No Number/Text detected
+Frame 218: No Number/Text detected
+Frame 218: No Number/Text detected
+Frame 219: No Number/Text detected
+Frame 219: No Number/Text detected
+Frame 220: No Number/Text detected
+Frame 221: No Number/Text detected
+Frame 221: No Number/Text detected
+Frame 221: No Number/Text detected
+Frame 221: No Number/Text detected
+Frame 224: [1432, 532, 1463, 596], 9
+Frame 224: [1488, 537, 1516, 600], 8
+Frame 224: [1375, 530, 1395, 587], 1
+Frame 224: [1398, 526, 1430, 592], 9
+Frame 224: [1553, 553, 1577, 602], 3
+Frame 224: No Number/Text detected
+Frame 225: No Number/Text detected
+Frame 225: No Number/Text detected
+Frame 226: No Number/Text detected
+Frame 227: No Number/Text detected
+Frame 228: No Number/Text detected
+Frame 230: No Number/Text detected
+Frame 231: No Number/Text detected
+Frame 231: No Number/Text detected
+Frame 232: No Number/Text detected
+Frame 233: No Number/Text detected
+Frame 234: No Number/Text detected
+Frame 234: [948, 387, 976, 444], 1
+Frame 234: [1185, 392, 1222, 449], 3
+Frame 234: [1145, 392, 1183, 448], 5
+Frame 234: [1102, 389, 1141, 448], 3
+Frame 235: No Number/Text detected
+Frame 235: No Number/Text detected
+Frame 235: No Number/Text detected
+Frame 236: No Number/Text detected
+Frame 236: No Number/Text detected
+Frame 237: No Number/Text detected
+Frame 237: No Number/Text detected
+Frame 238: No Number/Text detected
+Frame 238: No Number/Text detected
+Frame 238: No Number/Text detected
+Frame 238: No Number/Text detected
+Frame 238: [863, 707, 879, 761], 1
+Frame 238: [907, 704, 956, 761], 0
+Frame 238: [1097, 473, 1139, 533], 5
+Frame 238: [884, 473, 915, 536], 1
+Frame 238: [1053, 473, 1091, 533], 3
+Frame 238: [971, 473, 1013, 534], 3
+Frame 238: [923, 473, 965, 535], 3
+Frame 238: [1140, 471, 1181, 534], 3
+Frame 238: [1075, 700, 1122, 754], 0
+Frame 238: [1024, 701, 1073, 756], 0
+Frame 238: No Number/Text detected
+Frame 238: No Number/Text detected
+Frame 239: No Number/Text detected
+Frame 239: No Number/Text detected
+Frame 239: No Number/Text detected
+Frame 240: No Number/Text detected
+Frame 240: No Number/Text detected
+Frame 241: No Number/Text detected
+Frame 242: No Number/Text detected
+Frame 243: No Number/Text detected
+Frame 244: No Number/Text detected
+Frame 246: No Number/Text detected
+Frame 246: No Number/Text detected
+Frame 246: No Number/Text detected
+Frame 247: No Number/Text detected
+Frame 248: No Number/Text detected
+Frame 248: No Number/Text detected
+Frame 249: No Number/Text detected
+Frame 250: No Number/Text detected
+Frame 250: No Number/Text detected
+Frame 252: No Number/Text detected
+Frame 252: No Number/Text detected
+Frame 255: No Number/Text detected
+Frame 256: No Number/Text detected
+Frame 256: No Number/Text detected
+Frame 256: No Number/Text detected
+Frame 256: No Number/Text detected
+Frame 257: No Number/Text detected
+Frame 257: No Number/Text detected
+Frame 258: No Number/Text detected
+Frame 258: No Number/Text detected
+Frame 259: No Number/Text detected
+Frame 259: No Number/Text detected
+Frame 259: No Number/Text detected
+Frame 260: No Number/Text detected
+Frame 260: No Number/Text detected
+Frame 261: No Number/Text detected
+Frame 261: No Number/Text detected
+Frame 261: No Number/Text detected
+Frame 261: No Number/Text detected
+Frame 261: No Number/Text detected
+Frame 262: No Number/Text detected
+Frame 262: No Number/Text detected
+Frame 262: No Number/Text detected
+Frame 262: No Number/Text detected
+Frame 262: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 263: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 264: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 265: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 266: No Number/Text detected
+Frame 267: No Number/Text detected
+Frame 267: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 268: No Number/Text detected
+Frame 269: No Number/Text detected
+Frame 269: No Number/Text detected
+Frame 269: No Number/Text detected
+Frame 269: No Number/Text detected
+Frame 269: No Number/Text detected
+Frame 270: No Number/Text detected
+Frame 270: No Number/Text detected
+Frame 271: No Number/Text detected
+Frame 273: No Number/Text detected
+Frame 274: No Number/Text detected
+Frame 277: No Number/Text detected
+Frame 277: No Number/Text detected
+Frame 278: No Number/Text detected
+Frame 279: No Number/Text detected
+Frame 279: No Number/Text detected
+Frame 279: No Number/Text detected
+Frame 280: No Number/Text detected
+Frame 281: No Number/Text detected
+Frame 281: No Number/Text detected
+Frame 281: No Number/Text detected
+Frame 282: No Number/Text detected
+Frame 282: No Number/Text detected
+Frame 283: No Number/Text detected
+Frame 283: No Number/Text detected
+Frame 283: No Number/Text detected
+Frame 284: No Number/Text detected
+Frame 284: No Number/Text detected
+Frame 284: No Number/Text detected
+Frame 284: No Number/Text detected
+Frame 284: No Number/Text detected
+Frame 285: No Number/Text detected
+Frame 285: No Number/Text detected
+Frame 285: No Number/Text detected
+Frame 286: No Number/Text detected
+Frame 286: No Number/Text detected
+Frame 287: No Number/Text detected
+Frame 287: [986, 536, 1027, 602], 0
+Frame 287: [868, 546, 911, 611], 3
+Frame 287: [826, 550, 869, 614], 3
+Frame 287: [1030, 531, 1072, 599], 6
+Frame 287: [944, 540, 984, 604], 3
+Frame 287: No Number/Text detected
+Frame 288: No Number/Text detected
+Frame 288: No Number/Text detected
+Frame 288: [998, 542, 1038, 609], 0
+Frame 288: [800, 558, 831, 620], 1
+Frame 288: [835, 555, 873, 619], 3
+Frame 288: [876, 552, 916, 616], 3
+Frame 288: [1042, 538, 1087, 606], 6
+Frame 288: [952, 545, 993, 611], 3
+Frame 288: No Number/Text detected
+Frame 289: No Number/Text detected
+Frame 289: No Number/Text detected
+Frame 289: No Number/Text detected
+Frame 290: No Number/Text detected
+Frame 290: No Number/Text detected
+Frame 290: No Number/Text detected
+Frame 290: No Number/Text detected
+Frame 291: No Number/Text detected
+Frame 291: No Number/Text detected
+Frame 292: No Number/Text detected
+Frame 292: No Number/Text detected
+Frame 292: No Number/Text detected
+Frame 292: No Number/Text detected
+Frame 293: No Number/Text detected
+Frame 293: No Number/Text detected
+Frame 293: [1071, 533, 1114, 604], 0
+Frame 293: [889, 541, 935, 610], 3
+Frame 293: [852, 542, 884, 611], 1
+Frame 293: [937, 539, 979, 608], 3
+Frame 293: [1022, 535, 1064, 605], 3
+Frame 293: [1122, 529, 1170, 603], 6
+Frame 293: [1071, 533, 1114, 604], 0
+Frame 293: [1122, 529, 1170, 603], 6
+Frame 293: [937, 539, 979, 608], 3
+Frame 293: [893, 543, 929, 609], 3
+Frame 293: [1023, 535, 1062, 604], 3
+Frame 294: No Number/Text detected
+Frame 294: No Number/Text detected
+Frame 294: No Number/Text detected
+Frame 294: No Number/Text detected
+Frame 295: No Number/Text detected
+Frame 295: No Number/Text detected
+Frame 296: No Number/Text detected
+Frame 296: No Number/Text detected
+Frame 296: No Number/Text detected
+Frame 296: No Number/Text detected
+Frame 296: No Number/Text detected
+Frame 297: No Number/Text detected
+Frame 298: No Number/Text detected
+Frame 298: [821, 747, 845, 781], 7
+Frame 298: [961, 739, 974, 788], 1
+Frame 298: [969, 482, 1011, 552], 3
+Frame 298: [1060, 481, 1103, 551], 3
+Frame 298: [917, 483, 961, 553], 3
+Frame 298: [874, 480, 909, 558], 1
+Frame 298: [1166, 477, 1216, 552], 6
+Frame 298: [1112, 479, 1158, 552], 0
+Frame 298: No Number/Text detected
+Frame 298: No Number/Text detected
+Frame 298: No Number/Text detected
+Frame 298: No Number/Text detected
+Frame 299: No Number/Text detected
+Frame 299: No Number/Text detected
+Frame 300: No Number/Text detected
+Frame 300: No Number/Text detected
+Frame 301: No Number/Text detected
+Frame 302: No Number/Text detected
+Frame 303: No Number/Text detected
+Frame 303: No Number/Text detected
+Frame 304: No Number/Text detected
+Frame 304: No Number/Text detected
+Frame 305: No Number/Text detected
+Frame 305: No Number/Text detected
+Frame 306: No Number/Text detected
+Frame 306: No Number/Text detected
+Frame 310: No Number/Text detected
+Frame 311: No Number/Text detected
+Frame 311: No Number/Text detected
+Frame 313: No Number/Text detected
+Frame 314: No Number/Text detected
+Frame 314: No Number/Text detected
+Frame 315: No Number/Text detected
+Frame 316: No Number/Text detected
+Frame 316: No Number/Text detected
+Frame 316: No Number/Text detected
+Frame 317: No Number/Text detected
+Frame 317: No Number/Text detected
+Frame 317: No Number/Text detected
+Frame 317: No Number/Text detected
+Frame 318: No Number/Text detected
+Frame 318: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 319: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 320: No Number/Text detected
+Frame 321: No Number/Text detected
+Frame 321: No Number/Text detected
+Frame 321: No Number/Text detected
+Frame 321: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 322: No Number/Text detected
+Frame 323: No Number/Text detected
+Frame 323: No Number/Text detected
+Frame 323: No Number/Text detected
+Frame 323: No Number/Text detected
+Frame 323: No Number/Text detected
+Frame 324: No Number/Text detected
+Frame 324: No Number/Text detected
+Frame 324: No Number/Text detected
+Frame 324: No Number/Text detected
+Frame 324: No Number/Text detected
+Frame 325: No Number/Text detected
+Frame 326: No Number/Text detected
+Frame 326: No Number/Text detected
+Frame 327: No Number/Text detected
+Frame 327: No Number/Text detected
+Frame 327: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 328: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 329: No Number/Text detected
+Frame 330: No Number/Text detected
+Frame 330: No Number/Text detected
+Frame 330: No Number/Text detected
+Frame 330: No Number/Text detected
+Frame 330: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 331: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 332: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 333: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 334: No Number/Text detected
+Frame 335: No Number/Text detected
+Frame 335: No Number/Text detected
+Frame 335: No Number/Text detected
+Frame 335: No Number/Text detected
+Frame 335: No Number/Text detected
+Frame 336: No Number/Text detected
+Frame 336: No Number/Text detected
+Frame 336: No Number/Text detected
+Frame 336: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 337: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 338: No Number/Text detected
+Frame 339: No Number/Text detected
+Frame 339: No Number/Text detected
+Frame 339: No Number/Text detected
+Frame 339: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 340: No Number/Text detected
+Frame 341: No Number/Text detected
+Frame 341: No Number/Text detected
+Frame 341: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 342: No Number/Text detected
+Frame 343: No Number/Text detected
+Frame 343: No Number/Text detected
+Frame 343: No Number/Text detected
+Frame 343: No Number/Text detected
+Frame 344: No Number/Text detected
+Frame 344: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 346: No Number/Text detected
+Frame 347: No Number/Text detected
+Frame 347: No Number/Text detected
+Frame 347: [948, 606, 955, 644], 1
+Frame 347: [876, 668, 882, 701], 1
+Frame 347: [880, 512, 920, 556], 4
+Frame 347: [902, 660, 932, 702], 0
+Frame 347: [939, 509, 958, 552], 1
+Frame 347: [933, 659, 961, 701], 0
+Frame 347: [1088, 604, 1094, 638], 1
+Frame 347: [988, 510, 1012, 551], 3
+Frame 347: [1019, 608, 1025, 640], 1
+Frame 347: [962, 607, 968, 643], 1
+Frame 347: [1031, 505, 1055, 552], 3
+Frame 347: [1057, 505, 1080, 552], 5
+Frame 347: [1080, 506, 1103, 552], 2
+Frame 347: [962, 509, 986, 552], 3
+Frame 347: [897, 606, 928, 650], 0
+Frame 347: No Number/Text detected
+Frame 347: No Number/Text detected
+Frame 347: No Number/Text detected
+Frame 348: [933, 616, 942, 648], 1
+Frame 348: [1099, 611, 1108, 644], 1
+Frame 348: [963, 615, 972, 652], 1
+Frame 348: [944, 513, 960, 556], 1
+Frame 348: [1093, 512, 1117, 556], 2
+Frame 348: [966, 512, 992, 555], 3
+Frame 348: [1042, 512, 1066, 553], 3
+Frame 348: [994, 512, 1019, 555], 3
+Frame 348: [1068, 512, 1092, 553], 5
+Frame 348: No Number/Text detected
+Frame 348: No Number/Text detected
+Frame 348: No Number/Text detected
+Frame 349: [966, 616, 974, 654], 1
+Frame 349: [1098, 521, 1120, 553], 2
+Frame 349: [1105, 612, 1112, 645], 1
+Frame 349: [1044, 512, 1069, 555], 3
+Frame 349: [996, 512, 1023, 554], 3
+Frame 349: [969, 520, 992, 553], 3
+Frame 350: No Number/Text detected
+Frame 350: No Number/Text detected
+Frame 350: No Number/Text detected
+Frame 350: No Number/Text detected
+Frame 351: No Number/Text detected
+Frame 351: No Number/Text detected
+Frame 351: No Number/Text detected
+Frame 351: No Number/Text detected
+Frame 352: No Number/Text detected
+Frame 352: No Number/Text detected
+Frame 353: No Number/Text detected
+Frame 353: No Number/Text detected
+Frame 353: No Number/Text detected
+Frame 353: No Number/Text detected
+Frame 354: No Number/Text detected
+Frame 354: No Number/Text detected
+Frame 355: No Number/Text detected
+Frame 356: No Number/Text detected
+Frame 357: No Number/Text detected
+Frame 357: [946, 693, 1028, 742], 0
+Frame 357: [1225, 577, 1256, 624], 5
+Frame 357: [1121, 573, 1155, 623], 3
+Frame 357: [1260, 577, 1289, 624], 2
+Frame 357: [1186, 575, 1220, 624], 3
+Frame 357: [1085, 572, 1117, 621], 3
+Frame 357: [1050, 572, 1076, 621], 1
+Frame 358: No Number/Text detected
+Frame 358: No Number/Text detected
+Frame 358: No Number/Text detected
+Frame 358: No Number/Text detected
+Frame 358: No Number/Text detected
+Frame 359: No Number/Text detected
+Frame 359: No Number/Text detected
+Frame 359: No Number/Text detected
+Frame 359: No Number/Text detected
+Frame 360: No Number/Text detected
+Frame 360: No Number/Text detected
+Frame 360: [1212, 689, 1263, 732], 1
+Frame 360: [1127, 689, 1144, 732], 1
+Frame 360: [944, 689, 990, 739], 0
+Frame 360: [1157, 563, 1194, 614], 3
+Frame 360: [1050, 562, 1084, 613], 3
+Frame 360: [1013, 562, 1042, 613], 1
+Frame 360: [1234, 563, 1270, 614], 2
+Frame 360: No Number/Text detected
+Frame 360: [1212, 689, 1263, 732], 1
+Frame 360: [1127, 689, 1144, 732], 1
+Frame 360: [1157, 563, 1194, 614], 3
+Frame 360: [945, 689, 990, 739], 0
+Frame 360: [1050, 562, 1084, 613], 3
+Frame 360: [1013, 562, 1042, 613], 1
+Frame 360: [1234, 563, 1270, 614], 2
+Frame 361: No Number/Text detected
+Frame 362: No Number/Text detected
+Frame 362: No Number/Text detected
+Frame 362: No Number/Text detected
+Frame 363: [974, 677, 994, 724], 1
+Frame 363: [881, 749, 978, 800], 0
+Frame 363: [1175, 545, 1212, 598], 2
+Frame 363: [950, 547, 979, 601], 1
+Frame 363: [1028, 546, 1062, 599], 3
+Frame 363: [987, 548, 1020, 600], 3
+Frame 363: [1168, 674, 1207, 719], 1
+Frame 363: [1099, 547, 1131, 598], 3
+Frame 363: [1140, 547, 1172, 598], 5
+Frame 364: No Number/Text detected
+Frame 364: No Number/Text detected
+Frame 364: [832, 548, 903, 612], 4
+Frame 364: [931, 549, 956, 600], 1
+Frame 364: [1136, 673, 1191, 720], 1
+Frame 364: [1156, 545, 1194, 597], 2
+Frame 364: [968, 547, 1044, 600], 3
+Frame 365: No Number/Text detected
+Frame 365: No Number/Text detected
+Frame 365: No Number/Text detected
+Frame 365: No Number/Text detected
+Frame 366: No Number/Text detected
+Frame 366: No Number/Text detected
+Frame 366: No Number/Text detected
+Frame 366: No Number/Text detected
+Frame 366: [791, 555, 861, 616], 4
+Frame 366: [819, 760, 921, 813], 0
+Frame 366: [1100, 680, 1152, 725], 1
+Frame 366: [888, 552, 918, 606], 1
+Frame 366: [964, 551, 1006, 604], 3
+Frame 366: [926, 552, 963, 606], 3
+Frame 366: [1122, 548, 1158, 601], 2
+Frame 366: [1041, 550, 1077, 604], 3
+Frame 366: [1082, 550, 1118, 602], 5
+Frame 366: [816, 688, 865, 741], 0
+Frame 367: No Number/Text detected
+Frame 367: [1085, 679, 1143, 725], 1
+Frame 367: [1070, 549, 1104, 601], 5
+Frame 367: [798, 688, 850, 742], 0
+Frame 367: [910, 551, 948, 605], 3
+Frame 367: [954, 550, 990, 604], 3
+Frame 367: [1028, 548, 1061, 602], 3
+Frame 367: [872, 552, 902, 606], 1
+Frame 367: [1109, 547, 1145, 600], 2
+Frame 368: No Number/Text detected
+Frame 368: No Number/Text detected
+Frame 368: [897, 686, 909, 729], 1
+Frame 368: [779, 687, 830, 741], 0
+Frame 368: [938, 546, 972, 601], 3
+Frame 368: [892, 547, 929, 602], 3
+Frame 368: [1054, 544, 1089, 597], 5
+Frame 368: [1011, 545, 1045, 599], 3
+Frame 368: [852, 547, 886, 603], 1
+Frame 368: [1094, 542, 1131, 596], 2
+Frame 369: No Number/Text detected
+Frame 369: No Number/Text detected
+Frame 369: No Number/Text detected
+Frame 369: No Number/Text detected
+Frame 369: [905, 755, 926, 802], 1
+Frame 369: [729, 768, 747, 788], 1
+Frame 369: [1054, 672, 1107, 718], 1
+Frame 369: [991, 539, 1027, 594], 3
+Frame 369: [832, 544, 864, 599], 1
+Frame 369: [917, 541, 953, 596], 3
+Frame 369: [758, 684, 810, 738], 0
+Frame 369: [871, 542, 911, 598], 3
+Frame 369: [1032, 539, 1071, 593], 5
+Frame 369: [762, 757, 867, 811], 0
+Frame 369: [1078, 537, 1111, 590], 2
+Frame 370: No Number/Text detected
+Frame 370: No Number/Text detected
+Frame 370: No Number/Text detected
+Frame 370: No Number/Text detected
+Frame 370: No Number/Text detected
+Frame 371: No Number/Text detected
+Frame 371: No Number/Text detected
+Frame 373: No Number/Text detected
+Frame 373: No Number/Text detected
+Frame 373: No Number/Text detected
+Frame 374: No Number/Text detected
+Frame 374: No Number/Text detected
+Frame 374: No Number/Text detected
+Frame 375: No Number/Text detected
+Frame 375: No Number/Text detected
+Frame 376: No Number/Text detected
+Frame 376: No Number/Text detected
+Frame 384: No Number/Text detected
+Frame 384: No Number/Text detected
+Frame 385: No Number/Text detected
+Frame 385: No Number/Text detected
+Frame 385: No Number/Text detected
+Frame 385: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 386: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 387: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 388: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 389: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 390: No Number/Text detected
+Frame 391: No Number/Text detected
+Frame 391: No Number/Text detected
+Frame 391: No Number/Text detected
+Frame 391: No Number/Text detected
+Frame 391: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 392: No Number/Text detected
+Frame 393: No Number/Text detected
+Frame 393: No Number/Text detected
+Frame 393: No Number/Text detected
+Frame 393: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 394: No Number/Text detected
+Frame 395: No Number/Text detected
+Frame 395: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 396: No Number/Text detected
+Frame 397: No Number/Text detected
+Frame 397: No Number/Text detected
+Frame 398: No Number/Text detected
+Frame 398: No Number/Text detected
+Frame 398: No Number/Text detected
+Frame 399: No Number/Text detected
+Frame 399: No Number/Text detected
+Frame 399: No Number/Text detected
+Frame 400: No Number/Text detected
+Frame 400: No Number/Text detected
+Frame 400: No Number/Text detected
+Frame 401: No Number/Text detected
+Frame 401: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 402: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 403: No Number/Text detected
+Frame 404: No Number/Text detected
+Frame 404: No Number/Text detected
+Frame 404: No Number/Text detected
+Frame 405: No Number/Text detected
+Frame 405: No Number/Text detected
+Frame 405: No Number/Text detected
+Frame 405: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 406: No Number/Text detected
+Frame 407: No Number/Text detected
+Frame 408: No Number/Text detected
+Frame 408: No Number/Text detected
+Frame 408: No Number/Text detected
+Frame 409: No Number/Text detected
+Frame 409: No Number/Text detected
+Frame 409: No Number/Text detected
+Frame 410: No Number/Text detected
+Frame 411: No Number/Text detected
+Frame 411: No Number/Text detected
+Frame 411: No Number/Text detected
+Frame 411: No Number/Text detected
+Frame 411: No Number/Text detected
+Frame 412: No Number/Text detected
+Frame 412: No Number/Text detected
+Frame 412: No Number/Text detected
+Frame 412: No Number/Text detected
+Frame 412: No Number/Text detected
+Frame 413: No Number/Text detected
+Frame 413: No Number/Text detected
+Frame 415: No Number/Text detected
+Frame 415: No Number/Text detected
+Frame 416: No Number/Text detected
+Frame 418: No Number/Text detected
+Frame 418: No Number/Text detected
+Frame 418: No Number/Text detected
+Frame 418: No Number/Text detected
+Frame 419: No Number/Text detected
+Frame 419: No Number/Text detected
+Frame 420: No Number/Text detected
+Frame 420: No Number/Text detected
+Frame 421: No Number/Text detected
+Frame 422: No Number/Text detected
+Frame 422: No Number/Text detected
+Frame 422: No Number/Text detected
+Frame 422: No Number/Text detected
+Frame 423: [772, 519, 780, 548], 1
+Frame 423: [791, 528, 798, 548], 1
+Frame 423: [949, 338, 962, 370], 1
+Frame 423: [821, 516, 827, 547], 1
+Frame 423: [828, 338, 856, 389], 3
+Frame 423: [806, 344, 822, 389], 1
+Frame 423: [857, 336, 887, 386], 3
+Frame 424: [875, 528, 891, 552], 2
+Frame 424: [932, 319, 965, 371], 0
+Frame 424: [787, 520, 805, 553], 1
+Frame 424: [893, 517, 913, 552], 6
+Frame 424: [968, 315, 1003, 368], 6
+Frame 424: [898, 322, 930, 374], 3
+Frame 425: No Number/Text detected
+Frame 425: No Number/Text detected
+Frame 426: No Number/Text detected
+Frame 426: No Number/Text detected
+Frame 426: No Number/Text detected
+Frame 428: No Number/Text detected
+Frame 428: No Number/Text detected
+Frame 428: No Number/Text detected
+Frame 429: No Number/Text detected
+Frame 429: [859, 372, 904, 452], 0
+Frame 429: [684, 376, 726, 460], 5
+Frame 429: [812, 364, 856, 458], 8
+Frame 429: [730, 367, 774, 461], 6
+Frame 429: [906, 357, 956, 456], 6
+Frame 430: No Number/Text detected
+Frame 430: No Number/Text detected
+Frame 431: No Number/Text detected
+Frame 431: No Number/Text detected
+Frame 432: No Number/Text detected
+Frame 432: No Number/Text detected
+Frame 433: No Number/Text detected
+Frame 433: No Number/Text detected
+Frame 433: No Number/Text detected
+Frame 434: No Number/Text detected
+Frame 434: No Number/Text detected
+Frame 434: No Number/Text detected
+Frame 435: No Number/Text detected
+Frame 435: No Number/Text detected
+Frame 435: No Number/Text detected
+Frame 435: No Number/Text detected
+Frame 436: No Number/Text detected
+Frame 436: No Number/Text detected
+Frame 436: No Number/Text detected
+Frame 436: No Number/Text detected
+Frame 437: No Number/Text detected
+Frame 437: No Number/Text detected
+Frame 437: No Number/Text detected
+Frame 438: No Number/Text detected
+Frame 439: No Number/Text detected
+Frame 439: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 440: No Number/Text detected
+Frame 441: No Number/Text detected
+Frame 441: No Number/Text detected
+Frame 441: No Number/Text detected
+Frame 441: No Number/Text detected
+Frame 441: No Number/Text detected
+Frame 442: No Number/Text detected
+Frame 442: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 443: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 444: No Number/Text detected
+Frame 445: No Number/Text detected
+Frame 445: No Number/Text detected
+Frame 445: No Number/Text detected
+Frame 446: No Number/Text detected
+Frame 446: No Number/Text detected
+Frame 446: No Number/Text detected
+Frame 446: No Number/Text detected
+Frame 446: No Number/Text detected
+Frame 447: No Number/Text detected
+Frame 447: No Number/Text detected
+Frame 447: No Number/Text detected
+Frame 448: No Number/Text detected
+Frame 448: No Number/Text detected
+Frame 448: No Number/Text detected
+Frame 448: No Number/Text detected
+Frame 448: No Number/Text detected
+Frame 450: No Number/Text detected
+Frame 450: No Number/Text detected
+Frame 450: No Number/Text detected
+Frame 450: No Number/Text detected
+Frame 451: No Number/Text detected
+Frame 452: No Number/Text detected
+Frame 454: No Number/Text detected
+Frame 454: No Number/Text detected
+Frame 455: No Number/Text detected
+Frame 455: No Number/Text detected
+Frame 456: No Number/Text detected
+Frame 457: No Number/Text detected
+Frame 458: No Number/Text detected
+Frame 460: No Number/Text detected
+Frame 460: No Number/Text detected
+Frame 461: No Number/Text detected
+Frame 464: No Number/Text detected
+Frame 464: No Number/Text detected
+Frame 466: No Number/Text detected
+Frame 466: No Number/Text detected
+Frame 466: No Number/Text detected
+Frame 466: No Number/Text detected
+Frame 467: No Number/Text detected
+Frame 468: No Number/Text detected
+Frame 468: No Number/Text detected
+Frame 468: No Number/Text detected
+Frame 468: No Number/Text detected
+Frame 468: No Number/Text detected
+Frame 469: No Number/Text detected
+Frame 469: No Number/Text detected
+Frame 469: No Number/Text detected
+Frame 469: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 470: No Number/Text detected
+Frame 471: No Number/Text detected
+Frame 471: No Number/Text detected
+Frame 471: No Number/Text detected
+Frame 472: No Number/Text detected
+Frame 472: No Number/Text detected
+Frame 472: No Number/Text detected
+Frame 473: No Number/Text detected
+Frame 473: No Number/Text detected
+Frame 473: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 474: No Number/Text detected
+Frame 475: No Number/Text detected
+Frame 475: No Number/Text detected
+Frame 475: No Number/Text detected
+Frame 475: [1103, 458, 1132, 517], 8
+Frame 475: [1071, 455, 1101, 517], 8
+Frame 475: [1052, 464, 1065, 507], 1
+Frame 475: [1084, 641, 1090, 671], 1
+Frame 475: No Number/Text detected
+Frame 475: No Number/Text detected
+Frame 476: No Number/Text detected
+Frame 478: No Number/Text detected
+Frame 478: No Number/Text detected
+Frame 478: No Number/Text detected
+Frame 479: No Number/Text detected
+Frame 479: No Number/Text detected
+Frame 480: No Number/Text detected
+Frame 480: No Number/Text detected
+Frame 480: No Number/Text detected
+Frame 480: No Number/Text detected
+Frame 481: No Number/Text detected
+Frame 481: No Number/Text detected
+Frame 481: No Number/Text detected
+Frame 482: No Number/Text detected
+Frame 482: [1078, 635, 1084, 659], 1
+Frame 482: [941, 624, 976, 654], 0
+Frame 482: [1003, 627, 1023, 656], 0
+Frame 482: [877, 608, 890, 648], 1
+Frame 482: [908, 622, 916, 649], 1
+Frame 482: [1149, 418, 1182, 473], 3
+Frame 482: [1186, 424, 1221, 477], 4
+Frame 482: [1088, 620, 1111, 661], 6
+Frame 482: [1081, 411, 1114, 467], 3
+Frame 482: [1224, 426, 1259, 481], 2
+Frame 482: [1041, 619, 1051, 656], 1
+Frame 482: [1008, 406, 1029, 459], 1
+Frame 482: [1036, 405, 1075, 465], 3
+Frame 483: No Number/Text detected
+Frame 483: No Number/Text detected
+Frame 484: No Number/Text detected
+Frame 484: No Number/Text detected
+Frame 485: No Number/Text detected
+Frame 485: No Number/Text detected
+Frame 486: No Number/Text detected
+Frame 487: No Number/Text detected
+Frame 487: No Number/Text detected
+Frame 488: No Number/Text detected
+Frame 488: No Number/Text detected
+Frame 489: No Number/Text detected
+Frame 489: [1260, 462, 1295, 523], 3
+Frame 489: [1298, 466, 1340, 524], 4
+Frame 489: [1131, 455, 1172, 517], 3
+Frame 489: [1178, 458, 1218, 518], 3
+Frame 489: [1344, 466, 1385, 527], 2
+Frame 489: [1092, 453, 1124, 515], 1
+Frame 490: No Number/Text detected
+Frame 492: No Number/Text detected
+Frame 492: No Number/Text detected
+Frame 492: No Number/Text detected
+Frame 492: No Number/Text detected
+Frame 494: No Number/Text detected
+Frame 494: No Number/Text detected
+Frame 496: No Number/Text detected
+Frame 496: No Number/Text detected
+Frame 497: No Number/Text detected
+Frame 498: No Number/Text detected
+Frame 499: No Number/Text detected
+Frame 500: No Number/Text detected
+Frame 506: No Number/Text detected
+Frame 512: No Number/Text detected
+Frame 512: No Number/Text detected
+Frame 513: No Number/Text detected
+Frame 514: No Number/Text detected
+Frame 514: No Number/Text detected
+Frame 514: No Number/Text detected
+Frame 515: No Number/Text detected
+Frame 515: No Number/Text detected
+Frame 516: No Number/Text detected
+Frame 517: No Number/Text detected
+Frame 518: No Number/Text detected
+Frame 519: No Number/Text detected
+Frame 519: No Number/Text detected
+Frame 519: No Number/Text detected
+Frame 520: No Number/Text detected
+Frame 520: No Number/Text detected
+Frame 521: No Number/Text detected
+Frame 521: No Number/Text detected
+Frame 521: No Number/Text detected
+Frame 521: No Number/Text detected
+Frame 521: No Number/Text detected
+Frame 522: No Number/Text detected
+Frame 522: No Number/Text detected
+Frame 523: No Number/Text detected
+Frame 523: No Number/Text detected
+Frame 523: No Number/Text detected
+Frame 524: No Number/Text detected
+Frame 524: No Number/Text detected
+Frame 524: No Number/Text detected
+Frame 525: No Number/Text detected
+Frame 526: No Number/Text detected
+Frame 526: No Number/Text detected
+Frame 526: No Number/Text detected
+Frame 527: No Number/Text detected
+Frame 527: No Number/Text detected
+Frame 527: No Number/Text detected
+Frame 527: No Number/Text detected
+Frame 528: No Number/Text detected
+Frame 528: No Number/Text detected
+Frame 528: No Number/Text detected
+Frame 529: No Number/Text detected
+Frame 529: No Number/Text detected
+Frame 529: No Number/Text detected
+Frame 530: No Number/Text detected
+Frame 530: No Number/Text detected
+Frame 531: No Number/Text detected
+Frame 531: No Number/Text detected
+Frame 532: No Number/Text detected
+Frame 534: No Number/Text detected
+Frame 535: No Number/Text detected
+Frame 535: No Number/Text detected
+Frame 535: No Number/Text detected
+Frame 535: No Number/Text detected
+Frame 536: No Number/Text detected
+Frame 536: No Number/Text detected
+Frame 537: No Number/Text detected
+Frame 537: No Number/Text detected
+Frame 538: No Number/Text detected
+Frame 538: No Number/Text detected
+Frame 538: No Number/Text detected
+Frame 538: No Number/Text detected
+Frame 538: [1077, 482, 1138, 540], 3
+Frame 538: [888, 602, 924, 654], 0
+Frame 538: [1005, 491, 1036, 541], 3
+Frame 538: [1170, 480, 1207, 538], 5
+Frame 538: [1040, 489, 1072, 540], 3
+Frame 538: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: No Number/Text detected
+Frame 539: [33, 424, 40, 466], 1
+Frame 539: [20, 429, 26, 467], 1
+Frame 539: [154, 411, 162, 460], 1
+Frame 539: [52, 268, 75, 295], 1
+Frame 540: No Number/Text detected
+Frame 540: No Number/Text detected
+Frame 540: [983, 702, 1023, 748], 0
+Frame 540: [898, 630, 945, 678], 0
+Frame 540: [942, 700, 980, 746], 0
+Frame 540: [1050, 632, 1086, 680], 8
+Frame 540: [1018, 632, 1052, 679], 8
+Frame 541: No Number/Text detected
+Frame 541: No Number/Text detected
+Frame 541: No Number/Text detected
+Frame 541: No Number/Text detected
+Frame 541: No Number/Text detected
+Frame 541: No Number/Text detected
+Frame 541: [1277, 640, 1288, 657], 1
+Frame 541: [919, 705, 933, 723], 1
+Frame 541: [907, 631, 952, 677], 6
+Frame 541: [1009, 502, 1035, 555], 1
+Frame 541: No Number/Text detected
+Frame 542: [989, 701, 1033, 763], 0
+Frame 542: [906, 633, 946, 684], 0
+Frame 542: [1040, 497, 1081, 562], 3
+Frame 542: [1074, 712, 1088, 763], 1
+Frame 542: [1239, 500, 1282, 561], 5
+Frame 542: [1083, 498, 1124, 561], 3
+Frame 542: [945, 706, 986, 759], 0
+Frame 542: [904, 697, 944, 759], 2
+Frame 542: [1224, 634, 1265, 695], 5
+Frame 542: No Number/Text detected
+Frame 542: No Number/Text detected
+Frame 542: [989, 701, 1033, 763], 0
+Frame 542: [906, 633, 946, 684], 0
+Frame 542: [1040, 497, 1081, 562], 3
+Frame 542: [1074, 712, 1088, 763], 1
+Frame 542: [1239, 500, 1282, 561], 5
+Frame 542: [1083, 498, 1124, 561], 3
+Frame 542: [945, 706, 986, 759], 0
+Frame 542: [904, 697, 944, 759], 2
+Frame 542: [1224, 634, 1265, 695], 5
+Frame 542: No Number/Text detected
+Frame 543: No Number/Text detected
+Frame 543: No Number/Text detected
+Frame 543: No Number/Text detected
+Frame 545: No Number/Text detected
+Frame 545: No Number/Text detected
+Frame 546: No Number/Text detected
+Frame 546: [793, 631, 840, 681], 6
+Frame 546: [976, 717, 999, 767], 1
+Frame 546: [890, 713, 933, 764], 0
+Frame 546: [835, 711, 885, 764], 0
+Frame 546: [1124, 485, 1155, 550], 1
+Frame 546: [992, 487, 1037, 549], 3
+Frame 546: [944, 486, 991, 549], 3
+Frame 546: [888, 713, 935, 765], 0
+Frame 546: [908, 487, 939, 548], 1
+Frame 546: [981, 718, 999, 767], 1
+Frame 546: [788, 630, 842, 682], 0
+Frame 546: [1124, 485, 1155, 550], 1
+Frame 546: [992, 487, 1037, 549], 3
+Frame 546: [944, 486, 991, 549], 3
+Frame 546: [888, 713, 935, 765], 0
+Frame 546: [908, 487, 939, 548], 1
+Frame 546: [981, 718, 999, 767], 1
+Frame 546: [788, 630, 842, 682], 0
+Frame 547: No Number/Text detected
+Frame 547: No Number/Text detected
+Frame 547: No Number/Text detected
+Frame 547: No Number/Text detected
+Frame 548: No Number/Text detected
+Frame 548: [861, 702, 911, 760], 0
+Frame 548: [1054, 473, 1102, 539], 3
+Frame 548: [970, 471, 1018, 538], 3
+Frame 548: [911, 624, 947, 677], 9
+Frame 548: [808, 702, 857, 757], 0
+Frame 548: [922, 472, 967, 537], 3
+Frame 548: [1149, 475, 1194, 539], 5
+Frame 548: [1107, 472, 1140, 540], 1
+Frame 548: [1131, 629, 1172, 686], 9
+Frame 548: [957, 710, 976, 760], 1
+Frame 548: [952, 624, 990, 679], 9
+Frame 548: [761, 619, 811, 674], 0
+Frame 548: [861, 702, 911, 760], 0
+Frame 548: [1057, 474, 1099, 537], 3
+Frame 548: [911, 624, 947, 677], 9
+Frame 548: [970, 471, 1018, 538], 3
+Frame 548: [808, 702, 857, 757], 0
+Frame 548: [922, 472, 967, 536], 3
+Frame 548: [957, 710, 976, 760], 1
+Frame 548: [1131, 629, 1172, 686], 9
+Frame 548: [952, 624, 990, 679], 9
+Frame 548: [761, 619, 811, 674], 0
+Frame 549: No Number/Text detected
+Frame 549: No Number/Text detected
+Frame 549: [867, 704, 897, 751], 0
+Frame 549: [882, 465, 910, 528], 1
+Frame 549: [814, 702, 842, 748], 0
+Frame 549: [755, 614, 805, 668], 0
+Frame 549: [1148, 467, 1197, 534], 5
+Frame 549: [970, 466, 1014, 530], 3
+Frame 549: [918, 463, 965, 531], 3
+Frame 549: [1055, 467, 1101, 532], 3
+Frame 550: [954, 701, 970, 753], 1
+Frame 550: [809, 610, 823, 661], 1
+Frame 550: [799, 692, 849, 749], 0
+Frame 550: [1057, 458, 1103, 524], 3
+Frame 550: [969, 454, 1016, 526], 3
+Frame 550: [880, 454, 911, 523], 1
+Frame 550: [919, 456, 964, 522], 3
+Frame 550: [785, 633, 795, 658], 1
+Frame 550: [1152, 461, 1200, 526], 5
+Frame 550: [853, 693, 906, 752], 0
+Frame 550: [1135, 617, 1174, 677], 9
+Frame 550: [954, 701, 970, 753], 1
+Frame 550: [809, 610, 823, 661], 1
+Frame 550: [799, 692, 849, 749], 0
+Frame 550: [1057, 458, 1103, 524], 3
+Frame 550: [969, 454, 1016, 526], 3
+Frame 550: [880, 454, 911, 523], 1
+Frame 550: [919, 456, 964, 522], 3
+Frame 550: [785, 633, 795, 658], 1
+Frame 550: [1152, 461, 1200, 526], 5
+Frame 550: [853, 693, 906, 752], 0
+Frame 550: [1135, 617, 1174, 677], 9
+Frame 551: No Number/Text detected
+Frame 551: [749, 598, 802, 653], 6
+Frame 551: [954, 693, 975, 745], 1
+Frame 551: [1060, 448, 1109, 515], 3
+Frame 551: [972, 447, 1020, 513], 3
+Frame 551: [908, 603, 946, 659], 9
+Frame 551: [880, 446, 913, 511], 1
+Frame 551: [924, 447, 964, 511], 3
+Frame 551: [1117, 451, 1148, 515], 1
+Frame 551: [1153, 450, 1209, 518], 5
+Frame 551: [798, 685, 850, 740], 0
+Frame 551: [950, 605, 991, 661], 9
+Frame 551: [856, 688, 904, 742], 0
+Frame 552: No Number/Text detected
+Frame 552: No Number/Text detected
+Frame 552: No Number/Text detected
+Frame 552: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 553: No Number/Text detected
+Frame 554: No Number/Text detected
+Frame 554: No Number/Text detected
+Frame 554: No Number/Text detected
+Frame 554: No Number/Text detected
+Frame 554: No Number/Text detected
+Frame 555: No Number/Text detected
+Frame 555: No Number/Text detected
+Frame 555: No Number/Text detected
+Frame 555: No Number/Text detected
+Frame 555: No Number/Text detected
+Frame 556: No Number/Text detected
+Frame 557: No Number/Text detected
+Frame 557: No Number/Text detected
+Frame 558: No Number/Text detected
+Frame 558: No Number/Text detected
+Frame 558: No Number/Text detected
+Frame 558: No Number/Text detected
+Frame 559: No Number/Text detected
+Frame 559: No Number/Text detected
+Frame 560: No Number/Text detected
+Frame 563: No Number/Text detected
+Frame 567: No Number/Text detected
+Frame 568: No Number/Text detected
+Frame 569: No Number/Text detected
+Frame 569: No Number/Text detected
+Frame 570: No Number/Text detected
+Frame 570: No Number/Text detected
+Frame 570: No Number/Text detected
+Frame 570: No Number/Text detected
+Frame 571: No Number/Text detected
+Frame 572: No Number/Text detected
+Frame 572: No Number/Text detected
+Frame 573: No Number/Text detected
+Frame 573: No Number/Text detected
+Frame 573: No Number/Text detected
+Frame 574: No Number/Text detected
+Frame 574: No Number/Text detected
+Frame 576: No Number/Text detected
+Frame 576: No Number/Text detected
+Frame 578: No Number/Text detected
+Frame 581: No Number/Text detected
+Frame 582: No Number/Text detected
+Frame 582: No Number/Text detected
+Frame 583: No Number/Text detected
+Frame 584: No Number/Text detected
+Frame 585: No Number/Text detected
+Frame 586: No Number/Text detected
+Frame 586: No Number/Text detected
+Frame 586: No Number/Text detected
+Frame 586: No Number/Text detected
+Frame 587: No Number/Text detected
+Frame 587: No Number/Text detected
+Frame 588: No Number/Text detected
+Frame 589: No Number/Text detected
+Frame 590: No Number/Text detected
+Frame 590: No Number/Text detected
+Frame 590: No Number/Text detected
+Frame 591: No Number/Text detected
+Frame 591: No Number/Text detected
+Frame 592: No Number/Text detected
+Frame 592: No Number/Text detected
+Frame 592: No Number/Text detected
+Frame 592: No Number/Text detected
+Frame 592: No Number/Text detected
+Frame 593: No Number/Text detected
+Frame 593: No Number/Text detected
+Frame 593: No Number/Text detected
+Frame 593: No Number/Text detected
+Frame 594: No Number/Text detected
+Frame 594: No Number/Text detected
+Frame 595: No Number/Text detected
+Frame 595: No Number/Text detected
+Frame 596: No Number/Text detected
+Frame 597: No Number/Text detected
+Frame 597: No Number/Text detected
+Frame 598: No Number/Text detected
+Frame 598: No Number/Text detected
+Frame 598: No Number/Text detected
+Frame 599: No Number/Text detected
+Frame 599: No Number/Text detected
+Frame 599: No Number/Text detected
+Frame 599: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 600: No Number/Text detected
+Frame 601: No Number/Text detected
+Frame 601: No Number/Text detected
+Frame 601: No Number/Text detected
+Frame 601: No Number/Text detected
+Frame 602: No Number/Text detected
+Frame 602: No Number/Text detected
+Frame 603: No Number/Text detected
+Frame 603: No Number/Text detected
+Frame 603: No Number/Text detected
+Frame 604: No Number/Text detected
+Frame 604: No Number/Text detected
+Frame 604: No Number/Text detected
+Frame 605: No Number/Text detected
+Frame 605: No Number/Text detected
+Frame 606: No Number/Text detected
+Frame 606: No Number/Text detected
+Frame 606: No Number/Text detected
+Frame 606: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 608: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 609: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 610: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 611: No Number/Text detected
+Frame 612: No Number/Text detected
+Frame 612: No Number/Text detected
+Frame 612: No Number/Text detected
+Frame 612: No Number/Text detected
+Frame 613: No Number/Text detected
+Frame 613: No Number/Text detected
+Frame 613: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 614: No Number/Text detected
+Frame 615: No Number/Text detected
+Frame 615: No Number/Text detected
+Frame 615: No Number/Text detected
+Frame 615: No Number/Text detected
+Frame 615: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 616: No Number/Text detected
+Frame 617: No Number/Text detected
+Frame 617: No Number/Text detected
+Frame 617: No Number/Text detected
+Frame 618: No Number/Text detected
+Frame 618: No Number/Text detected
+Frame 618: No Number/Text detected
+Frame 618: No Number/Text detected
+Frame 620: No Number/Text detected
+Frame 620: No Number/Text detected
+Frame 620: No Number/Text detected
+Frame 621: No Number/Text detected
+Frame 621: No Number/Text detected
+Frame 621: No Number/Text detected
+Frame 622: No Number/Text detected
+Frame 623: No Number/Text detected
+Frame 623: No Number/Text detected
+Frame 624: No Number/Text detected
+Frame 624: No Number/Text detected
+Frame 625: [1121, 320, 1141, 360], 3
+Frame 625: [1182, 307, 1202, 350], 3
+Frame 625: [1143, 315, 1165, 356], 3
+Frame 625: [1206, 303, 1221, 342], 1
+Frame 625: [1224, 297, 1247, 341], 6
+Frame 625: No Number/Text detected
+Frame 625: No Number/Text detected
+Frame 626: No Number/Text detected
+Frame 626: No Number/Text detected
+Frame 627: No Number/Text detected
+Frame 627: No Number/Text detected
+Frame 627: No Number/Text detected
+Frame 629: No Number/Text detected
+Frame 630: No Number/Text detected
+Frame 630: No Number/Text detected
+Frame 631: No Number/Text detected
+Frame 631: [1027, 462, 1053, 522], 1
+Frame 631: [1056, 457, 1096, 522], 6
+Frame 631: [869, 481, 889, 531], 1
+Frame 631: [895, 477, 927, 531], 3
+Frame 631: [930, 474, 962, 528], 3
+Frame 631: [990, 467, 1025, 525], 3
+Frame 631: No Number/Text detected
+Frame 631: No Number/Text detected
+Frame 633: No Number/Text detected
+Frame 633: [917, 490, 953, 546], 3
+Frame 633: [983, 485, 1022, 542], 3
+Frame 633: [879, 493, 912, 548], 3
+Frame 633: [1060, 479, 1092, 536], 6
+Frame 633: [848, 496, 872, 550], 1
+Frame 633: [1023, 482, 1052, 539], 1
+Frame 633: [917, 490, 953, 546], 3
+Frame 633: [983, 485, 1022, 542], 3
+Frame 633: [879, 493, 912, 548], 3
+Frame 633: [1060, 479, 1092, 536], 6
+Frame 633: [848, 496, 872, 550], 1
+Frame 633: [1023, 482, 1052, 539], 1
+Frame 633: No Number/Text detected
+Frame 634: No Number/Text detected
+Frame 634: No Number/Text detected
+Frame 634: No Number/Text detected
+Frame 635: No Number/Text detected
+Frame 636: No Number/Text detected
+Frame 636: No Number/Text detected
+Frame 637: No Number/Text detected
+Frame 637: No Number/Text detected
+Frame 639: No Number/Text detected
+Frame 639: No Number/Text detected
+Frame 639: No Number/Text detected
+Frame 640: No Number/Text detected
+Frame 640: No Number/Text detected
+Frame 640: No Number/Text detected
+Frame 640: No Number/Text detected
+Frame 641: No Number/Text detected
+Frame 641: No Number/Text detected
+Frame 641: No Number/Text detected
+Frame 642: No Number/Text detected
+Frame 642: No Number/Text detected
+Frame 642: [1077, 467, 1130, 542], 6
+Frame 642: [986, 469, 1035, 542], 3
+Frame 642: [901, 470, 950, 543], 3
+Frame 642: [816, 472, 846, 543], 1
+Frame 642: [852, 471, 900, 543], 3
+Frame 643: No Number/Text detected
+Frame 643: No Number/Text detected
+Frame 643: [903, 467, 950, 538], 3
+Frame 643: [1076, 465, 1131, 540], 6
+Frame 643: [1042, 468, 1073, 535], 1
+Frame 643: [987, 466, 1037, 539], 3
+Frame 643: [812, 467, 847, 540], 1
+Frame 643: [855, 469, 899, 535], 3
+Frame 644: No Number/Text detected
+Frame 644: [1046, 458, 1085, 526], 1
+Frame 644: [855, 459, 901, 523], 3
+Frame 644: [817, 460, 853, 523], 1
+Frame 644: [905, 458, 953, 524], 3
+Frame 644: [993, 456, 1044, 526], 3
+Frame 644: No Number/Text detected
+Frame 645: No Number/Text detected
+Frame 645: No Number/Text detected
+Frame 645: No Number/Text detected
+Frame 646: No Number/Text detected
+Frame 646: No Number/Text detected
+Frame 647: No Number/Text detected
+Frame 647: No Number/Text detected
+Frame 648: No Number/Text detected
+Frame 648: No Number/Text detected
+Frame 648: No Number/Text detected
+Frame 648: No Number/Text detected
+Frame 648: No Number/Text detected
+Frame 649: No Number/Text detected
+Frame 649: No Number/Text detected
+Frame 649: No Number/Text detected
+Frame 650: No Number/Text detected
+Frame 650: No Number/Text detected
+Frame 650: No Number/Text detected
+Frame 650: No Number/Text detected
+Frame 650: No Number/Text detected
+Frame 651: No Number/Text detected
+Frame 652: No Number/Text detected
+Frame 652: No Number/Text detected
+Frame 652: No Number/Text detected
+Frame 652: No Number/Text detected
+Frame 652: No Number/Text detected
+Frame 653: No Number/Text detected
+Frame 653: No Number/Text detected
+Frame 653: [1029, 329, 1062, 401], 1
+Frame 653: [1069, 327, 1123, 405], 6
+Frame 653: [827, 324, 876, 395], 3
+Frame 653: [971, 327, 1021, 399], 3
+Frame 653: [881, 326, 929, 396], 3
+Frame 654: No Number/Text detected
+Frame 654: [1053, 319, 1112, 392], 6
+Frame 654: [864, 316, 914, 385], 3
+Frame 654: [960, 319, 1003, 387], 3
+Frame 654: [1017, 322, 1044, 387], 1
+Frame 654: [816, 315, 858, 382], 3
+Frame 654: [771, 313, 807, 381], 1
+Frame 655: No Number/Text detected
+Frame 655: No Number/Text detected
+Frame 655: [1038, 312, 1096, 386], 6
+Frame 655: [756, 307, 792, 375], 1
+Frame 655: [797, 307, 847, 377], 3
+Frame 655: [851, 309, 902, 379], 3
+Frame 655: [945, 312, 990, 382], 3
+Frame 656: No Number/Text detected
+Frame 656: No Number/Text detected
+Frame 656: [1026, 300, 1082, 382], 6
+Frame 656: [836, 298, 888, 371], 3
+Frame 656: [782, 296, 834, 371], 3
+Frame 656: [930, 302, 978, 373], 3
+Frame 656: [740, 295, 776, 370], 1
+Frame 656: [985, 301, 1023, 380], 1
+Frame 657: No Number/Text detected
+Frame 658: No Number/Text detected
+Frame 658: No Number/Text detected
+Frame 659: No Number/Text detected
+Frame 659: No Number/Text detected
+Frame 659: No Number/Text detected
